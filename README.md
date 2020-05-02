@@ -1,4 +1,3 @@
-#Bismillah
 #Assalamu-Alaikium
 
  [+] Information :
@@ -16,12 +15,9 @@
 
    Termux-Login-v1.2 
 
-[+] warning :- if anybody want to modify this script and want to 
-    upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk
-
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/yasif-tracker/termuxLogin.git
 
     cd Termux-Login
 
